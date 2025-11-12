@@ -1,2 +1,7 @@
-# Client_Server_Program
-This project demonstrates how two programs (client and server) communicate with each other over a TCP/IP network using sockets in the C language. TCP (Transmission Control Protocol) provides reliable, connection-oriented communication, ensuring that data sent by one side is received correctly by the other.
+# tcp-client-server-in-C
+
+See the explanation in this video: https://www.youtube.com/watch?v=hptViBE23fI
+
+This is a simple TCP Client Server program in C language. 
+
+[![Run on Repl.it](https://repl.it/badge/github/nikhilroxtomar/tcp-client-server-in-C)](https://repl.it/github/nikhilroxtomar/tcp-client-server-in-C)
